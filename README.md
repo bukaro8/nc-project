@@ -9,12 +9,12 @@ npm install```
 ```
 PORT =3000
 NODE_ENV=development
-USER_NAME= user
-PASSWORD=123456
-MONGO_URL= mongodb://victor:123456@localhost:27017
-MONGO_NAME=sampleDatabase
-MONGO_USER=victor
-MONGO_PASS=123456
+USER_NAME= texto
+PASSWORD=texto
+MONGO_URL= mongodb://texto:123456@localhost:27017
+MONGO_NAME=texto
+MONGO_USER=texto
+MONGO_PASS=texto
 ```
 4. Environment variables are handle by env-var. To add a new variable add it to .env and them go to :
 ```src/config/plugins/envs/envs.plugin.ts``` 
